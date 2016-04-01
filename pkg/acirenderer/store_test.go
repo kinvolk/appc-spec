@@ -22,9 +22,9 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/appc/spec/aci"
-	"github.com/appc/spec/schema"
-	"github.com/appc/spec/schema/types"
+	"github.com/kinvolk/spec/aci"
+	"github.com/kinvolk/spec/schema"
+	"github.com/kinvolk/spec/schema/types"
 )
 
 const (

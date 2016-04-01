@@ -21,7 +21,7 @@ import (
 	"os"
 	"syscall"
 
-	"github.com/appc/spec/pkg/device"
+	"github.com/kinvolk/spec/pkg/device"
 )
 
 func init() {

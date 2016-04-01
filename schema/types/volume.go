@@ -23,7 +23,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/appc/spec/schema/common"
+	"github.com/kinvolk/spec/schema/common"
 )
 
 const (

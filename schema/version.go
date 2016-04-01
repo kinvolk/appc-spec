@@ -15,7 +15,7 @@
 package schema
 
 import (
-	"github.com/appc/spec/schema/types"
+	"github.com/kinvolk/spec/schema/types"
 )
 
 const (

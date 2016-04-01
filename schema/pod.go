@@ -20,7 +20,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/appc/spec/schema/types"
+	"github.com/kinvolk/spec/schema/types"
 
 	"go4.org/errorutil"
 )

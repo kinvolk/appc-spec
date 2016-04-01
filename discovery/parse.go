@@ -19,8 +19,8 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/appc/spec/schema/common"
-	"github.com/appc/spec/schema/types"
+	"github.com/kinvolk/spec/schema/common"
+	"github.com/kinvolk/spec/schema/types"
 )
 
 type App struct {

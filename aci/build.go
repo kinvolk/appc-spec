@@ -20,7 +20,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/appc/spec/pkg/tarheader"
+	"github.com/kinvolk/spec/pkg/tarheader"
 )
 
 // TarHeaderWalkFunc is the type of the function which allows setting tar

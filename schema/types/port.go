@@ -21,7 +21,7 @@ import (
 	"net/url"
 	"strconv"
 
-	"github.com/appc/spec/schema/common"
+	"github.com/kinvolk/spec/schema/common"
 )
 
 type Port struct {

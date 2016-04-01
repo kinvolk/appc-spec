@@ -17,7 +17,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/appc/spec/schema"
+	"github.com/kinvolk/spec/schema"
 )
 
 var cmdVersion = &Command{

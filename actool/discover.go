@@ -20,7 +20,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/appc/spec/discovery"
+	"github.com/kinvolk/spec/discovery"
 )
 
 var (

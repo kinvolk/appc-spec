@@ -18,7 +18,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/appc/spec/schema/types"
+	"github.com/kinvolk/spec/schema/types"
 )
 
 func TestNewAppFromString(t *testing.T) {

@@ -21,7 +21,7 @@ import (
 	"path"
 	"testing"
 
-	"github.com/appc/spec/schema"
+	"github.com/kinvolk/spec/schema"
 )
 
 func newValidateLayoutTest() (string, error) {

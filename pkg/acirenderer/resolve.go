@@ -17,7 +17,7 @@ package acirenderer
 import (
 	"container/list"
 
-	"github.com/appc/spec/schema/types"
+	"github.com/kinvolk/spec/schema/types"
 )
 
 // CreateDepListFromImageID returns the flat dependency tree of the image with

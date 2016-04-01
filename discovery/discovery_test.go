@@ -25,7 +25,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/appc/spec/schema/types"
+	"github.com/kinvolk/spec/schema/types"
 )
 
 type meta struct {

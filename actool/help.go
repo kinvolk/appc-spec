@@ -20,7 +20,7 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/appc/spec/schema"
+	"github.com/kinvolk/spec/schema"
 )
 
 var (

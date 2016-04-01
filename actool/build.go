@@ -22,8 +22,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/appc/spec/aci"
-	"github.com/appc/spec/schema"
+	"github.com/kinvolk/spec/aci"
+	"github.com/kinvolk/spec/schema"
 )
 
 var (

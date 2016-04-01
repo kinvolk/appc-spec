@@ -17,7 +17,7 @@ package schema
 import (
 	"testing"
 
-	"github.com/appc/spec/schema/types"
+	"github.com/kinvolk/spec/schema/types"
 )
 
 func TestPodManifestMerge(t *testing.T) {

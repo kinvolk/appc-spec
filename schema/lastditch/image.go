@@ -17,8 +17,8 @@ package lastditch
 import (
 	"encoding/json"
 
-	"github.com/appc/spec/schema"
-	"github.com/appc/spec/schema/types"
+	"github.com/kinvolk/spec/schema"
+	"github.com/kinvolk/spec/schema/types"
 )
 
 type ImageManifest struct {

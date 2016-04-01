@@ -29,7 +29,7 @@ import (
 	"os/exec"
 	"path/filepath"
 
-	"github.com/appc/spec/schema"
+	"github.com/kinvolk/spec/schema"
 )
 
 type FileType string

@@ -21,7 +21,7 @@ import (
 	"io"
 	"time"
 
-	"github.com/appc/spec/schema"
+	"github.com/kinvolk/spec/schema"
 )
 
 // ArchiveWriter writes App Container Images. Users wanting to create an ACI or
